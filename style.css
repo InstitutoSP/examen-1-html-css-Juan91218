@@ -1,0 +1,42 @@
+*{
+    font-size: 18px;
+}
+body{
+    background-color: lightgray;
+}
+header{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+li{
+    display: inline;
+    padding: 20px;
+}
+a{
+    text-decoration: none;
+    color: grey;
+    font-weight: bold;
+}
+section{
+    margin-bottom: 20px;
+}
+.foto0 {
+    border: solid black;
+    background-color: green;
+    margin: 5px;
+    padding: 20px;
+}
+.foto1 {
+    border: solid black;
+    background-color: green;
+    margin: 5px;
+    padding: 20px;
+}
+.foto2 {
+    border: solid black;
+    background-color: green;
+    margin: 5px;
+    padding: 20px;
+}
